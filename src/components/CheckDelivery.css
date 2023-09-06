@@ -1,0 +1,63 @@
+.left{
+    display: flex;
+    font-family: Montserrat;
+    align-items: center;
+    height: 10vh;
+    margin-left: 10vw;
+    width: 100%;
+    gap: 2vw;
+}
+.left p{
+    margin-bottom: 0;
+}
+.navbar{
+    display: flex;
+    gap: 3vw;
+}
+.nav1{
+    font-size: 2vh;
+}
+.nav2{
+    background-color:#22333B;
+    color: white;
+    width: 100vw;
+    font-family:'Courier New', Courier, monospace;
+}
+.nav3{
+    width: 100vw;
+    gap: 4vw;
+    display: flex;
+    justify-content: center;
+}
+.right p{
+    margin-bottom: 0;
+}
+.me-2{
+    width: 20vw;
+}
+.btn{
+    background-color: #22333B;
+}
+.right{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    font-family: Montserrat;
+}
+.topbox{
+    display: flex;
+    align-items: center;
+    height: 5vh;
+    width: 100%;
+    background-color: #EAE0D5;
+}
+.rightup{
+    justify-content: end;
+    width: 100%;
+    margin-right: 5vw;
+    display: flex
+}
+.nav-link:hover{
+    color: #C6AC8F;
+    text-decoration: underline;
+}
